@@ -1,2 +1,2 @@
-# New-HadProject001
+# New-HadoopProject001
 My New Hadoop Project
